@@ -1,1 +1,3 @@
-Hi, my name is Timothy. I am currently studying computer science in university and at the moment we are learning java. 
+# Welcome!
+
+Hi, my name is Timothy. I am entering my second year currently studying computer science at university.
